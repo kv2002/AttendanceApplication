@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "133897609920",
+    "firebase_url": "https://test-ca06d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "test-ca06d",
+    "storage_bucket": "test-ca06d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133897609920:android:5a97b0a6e420f9d8620325",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133897609920-3ppn26sou31k00lg50d98lt7sp7b0k93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZN9MsABxPHni09311uuBkka_a432f7os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133897609920-3ppn26sou31k00lg50d98lt7sp7b0k93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133897609920:android:3dbe80b4fb7cf645620325",
+        "android_client_info": {
+          "package_name": "com.swelab.attendanceapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133897609920-3ppn26sou31k00lg50d98lt7sp7b0k93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZN9MsABxPHni09311uuBkka_a432f7os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133897609920-3ppn26sou31k00lg50d98lt7sp7b0k93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Attendance Application</string>
+    <string-array name="TypeOfUser">
+        <item>Admin</item>
+        <item>Teacher</item>
+        <item>Student</item>
+    </string-array>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_next">Next</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="all_courses_fragment">All Courses fragment</string>
+    <string name="add_courses_fragment">Add Courses fragment</string>
+    <string name="add_users_fragment">Add Users fragment</string>
+    <string name="my_profile_fragment">My Profile fragment</string>
+    <string name="my_courses_fragment">My Courses fragment</string>
+    <string name="all_courses">All Courses</string>
+    <string name="my_courses">My Courses</string>
+    <string name="my_profile">My Profile</string>
+    <string name="add_courses">Add Courses</string>
+    <string name="add_users">Add Users</string>
+    <string name="admin">ADMIN</string>
+    <string name="student">STUDENT</string>
+    <string name="teacher">TEACHER</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_attendance_code">Attendance Code</string>
+    <string name="hint_new_name">New Name</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="new_name">New Name</string>
+    <string name="new_id">New ID</string>
+    <string name="course_key">Course Key</string>
+    <string name="view_stats">View Stats</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="exit">Exit</string>
+    <string name="time_limit">Time Limit In Minutes</string>
+    <string name="add_user">Add User</string>
+    <string name="add_course">Add Course</string>
+    <string name="change_name">Change Name</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="reset_password_close">CLOSE</string>
+</resources>
