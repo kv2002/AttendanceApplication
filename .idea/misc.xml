@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/activity_login_screen.xml" value="0.264" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/activity_student_default.xml" value="0.2" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/activity_teacher_default.xml" value="0.2296875" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/admin_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/dialog_admin_all_courses.xml" value="0.264" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/dialog_my_profile.xml" value="0.2296875" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/dialog_reset_password.xml" value="0.2296875" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/dialog_student_all_courses.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/dialog_student_my_courses.xml" value="0.1" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/dialog_teacher_all_courses.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/dialog_teacher_my_courses.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/dialog_teacher_proxies.xml" value="0.1" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/dialog_teacher_view_stats.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/fragment_admin_add_courses.xml" value="0.2296875" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/fragment_admin_add_users.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/fragment_admin_my_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/fragment_list_courses.xml" value="0.264" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/fragment_my_profile.xml" value="0.2296875" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/fragment_student_all_courses.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/fragment_student_my_courses.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/fragment_student_my_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/fragment_teacher_all_courses.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/fragment_teacher_my_courses.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/fragment_teacher_my_profile.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/layout/list_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/chkri/OneDrive/Documents/GitHub/SE-LAB/AA/AttendanceApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
